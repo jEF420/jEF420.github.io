@@ -1,0 +1,14 @@
+{
+    "Movies" : [
+        {
+            "name":       "Interstellar",
+            "length":      "2.4hr",
+            "genre":    "Sci-fi"
+        },
+        {
+            "name":       "sonoo",
+            "salary":      56000,
+            "married":    true
+        }
+    ]
+}
