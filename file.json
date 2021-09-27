@@ -1,4 +1,4 @@
-{
+[
     "Movies" : [
         {
             "title":       "Interstellar",
@@ -13,4 +13,4 @@
             "id":   1
         }
     ]
-}
+]
